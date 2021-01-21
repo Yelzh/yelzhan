@@ -1,0 +1,33 @@
+ <!DOCTYPE html>
+ <html lang="en">
+
+<head>
+     <meta charset="UTF-8">
+     <title>Yelzhan's homepage</title>
+     <meta name="description" content="DESCRIPTION">
+    <link rel="stylesheet" href="PATH">
+
+     <!--[if lt IE 9]>
+       <script src = "http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+     <![endif]-->
+ </head>
+
+ <body>
+  <h1>Itegulov Yelzhan</h1>
+  <p><em>I am a student of the first course of IT-Management faculty in <b>AITU</b></em> </p>
+  <p>I love dancing and sining </p>
+  <hr />
+  <h3>My favourite kind of music is EDM</h3>
+  <ul>
+    <li>My favourite subjects:</li>
+    <ul>
+       <li>Linear Algebra</li>
+      <li>English</li>
+      <li>Web Technology</li>
+      </ul>
+<li> I love my group: Itm-2006</li>
+    </ul>
+
+ </body>
+
+ </html>
